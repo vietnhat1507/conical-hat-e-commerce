@@ -33,7 +33,7 @@
 - 🎨 Figma (view-only): [\[Add link\]](https://www.figma.com/design/h5cigrWrKWJOy10WYGAcGt/Untitled?node-id=0-1&t=6jC02iX5ju0fvOQa-1)
 - 💻 GitHub: [\[Add link\]](https://github.com/vietnhat1507/conical-hat-e-commerce)
 - 🌐 Home Pages: [\[Add link\]](https://conical-hat-e-commerce.vercel.app/)
-- 🎥 YouTube (nếu có): [Add link]
+- 🎥 YouTube (nếu có): [[Add link]](https://www.youtube.com/watch?v=FlYBIZJ-Lz0)
 
 ---
 
